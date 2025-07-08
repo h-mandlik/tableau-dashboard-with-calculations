@@ -63,8 +63,7 @@ The dashboard is built using a modified **Superstore-style dataset**, composed o
 
 ## 🔗 Tableau Public Link
 
-👉 [View on Tableau Public]([https://public.tableau.com/app/profile/yourname/viz/sales-dashboard](https://public.tableau.com/views/TableauDashboard1_17511961325470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-
+👉 [View on Tableau Public](https://public.tableau.com/views/TableauDashboard1_17511961325470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ---
